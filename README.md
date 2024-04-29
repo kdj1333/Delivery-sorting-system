@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.youtube.com/shorts/HywsAdQ7ZGA" title="택배 자동분류 시스템 실습 테스트">
+        <a href="https://www.youtube.com/watch?v=HywsAdQ7ZGA&list=PLA7DQVYBXo2g9kVz4FXOue5C71AWP066V&pp=gAQBiAQB" title="택배 자동분류 시스템 실습 테스트">
           <img align="center" src="https://i.ytimg.com/vi/HywsAdQ7ZGA/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLDx2jte627H28pC53-5eaUdwYrhng" width="300" alt-text="택배 자동분류 시스템 실습 테스트">
         </a>
       </td
