@@ -5,7 +5,7 @@
 > - 핵심 역할 : 팀장, 파이썬-라즈베리파이 연동제어를 통해 개발
 >
 > - >> - Language : Python
-> - >> - Skill : RaspberryPi
+> - >> - Skill : RaspberryPi, 커뮤니케이션, 유연성, 팀워크, 리더십
 
 <br />
 
